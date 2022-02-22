@@ -16,3 +16,5 @@ simple project for used filter function and file system by php.
   Contains database settings.
 5-all.css/all.js .
   bootstrap file.
+  
+  you need to datapase contains table users have columns name , email , password
